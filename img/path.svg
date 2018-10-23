@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 254.296 158.929">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c2dffb"/>
+      <stop offset="1" stop-color="#5a585a"/>
+    </radialGradient>
+  </defs>
+  <g id="up-arrow" transform="translate(0 -47.683)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" class="cls-1" d="M249.628,176.1,138.421,52.88a14.675,14.675,0,0,0-22.407,0l-.381.636L4.648,176.1a19.105,19.105,0,0,0,0,24.981l.191.159a15.011,15.011,0,0,0,11.346,5.371H238.122a14.648,14.648,0,0,0,11.41-5.594l.064.064A19,19,0,0,0,249.628,176.1Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

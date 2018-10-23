@@ -1,0 +1,26 @@
+// Here you can add other styles
+// @import './semantic.min.css';
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+ height: 100%;
+}
+
+
+.appConitaner{
+
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+
+
+}
